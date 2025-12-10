@@ -486,6 +486,27 @@
         "right": 1,
         "perfect": 40,
         "excellent": 4
+      },
+      {
+        "day": "2025-12-09",
+        "total_messages": 11,
+        "absolutely": 0,
+        "right": 0,
+        "perfect": 0,
+        "excellent": 0
+      }
+    ]
+  },
+  {
+    "workstation_id": "Mac.lan",
+    "history": [
+      {
+        "day": "2025-12-09",
+        "total_messages": 1164,
+        "absolutely": 1,
+        "right": 1,
+        "perfect": 12,
+        "excellent": 3
       }
     ]
   },
