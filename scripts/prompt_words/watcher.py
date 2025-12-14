@@ -1,8 +1,24 @@
 #!/usr/bin/env python3
 """Watcher for user prompt messages - tracks words in user prompts to Claude."""
+import os
 import sys
+import json
 import time
-from word_counter import *
+from pathlib import Path
+from datetime import datetime
+
+from word_counter import (
+    CLAUDE_PROJECTS_BASE,
+    DATA_DIR,
+    SERVER_URL,
+    TRACKED_WORDS,
+    ensure_data_dir,
+    get_utc_today,
+    get_project_display_name,
+    process_user_message_entry,
+    upload_to_api,
+)
+import re
 
 # Additional data files for watcher
 WORD_COUNTS_FILE = os.path.join(DATA_DIR, "word_counts.json")

@@ -1,7 +1,23 @@
 #!/usr/bin/env python3
+import os
 import sys
+import json
 import time
-from claude_counter import *
+from pathlib import Path
+from datetime import datetime
+
+from claude_counter import (
+    CLAUDE_PROJECTS_BASE,
+    DATA_DIR,
+    SERVER_URL,
+    PATTERNS,
+    ensure_data_dir,
+    get_utc_today,
+    get_project_display_name,
+    process_message_entry,
+    upload_to_api,
+)
+import re
 
 # Additional data files for watcher
 PROJECT_COUNTS_FILE = os.path.join(DATA_DIR, "project_counts.json")
