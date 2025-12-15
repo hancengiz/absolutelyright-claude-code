@@ -526,6 +526,14 @@
         "right": 6,
         "perfect": 133,
         "excellent": 27
+      },
+      {
+        "day": "2025-12-14",
+        "total_messages": 82,
+        "absolutely": 0,
+        "right": 0,
+        "perfect": 2,
+        "excellent": 0
       }
     ]
   },
@@ -553,6 +561,14 @@
         "total_messages": 286,
         "absolutely": 0,
         "right": 0,
+        "perfect": 0,
+        "excellent": 0
+      },
+      {
+        "day": "2025-12-14",
+        "total_messages": 668,
+        "absolutely": 0,
+        "right": 6,
         "perfect": 0,
         "excellent": 0
       }
@@ -686,6 +702,22 @@
         "total_messages": 2248,
         "absolutely": 0,
         "right": 13,
+        "perfect": 0,
+        "excellent": 0
+      },
+      {
+        "day": "2025-12-14",
+        "total_messages": 4407,
+        "absolutely": 2,
+        "right": 31,
+        "perfect": 1,
+        "excellent": 4
+      },
+      {
+        "day": "2025-12-15",
+        "total_messages": 105,
+        "absolutely": 0,
+        "right": 1,
         "perfect": 0,
         "excellent": 0
       }
