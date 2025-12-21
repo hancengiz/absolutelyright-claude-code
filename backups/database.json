@@ -550,6 +550,14 @@
         "right": 1,
         "perfect": 6,
         "excellent": 0
+      },
+      {
+        "day": "2025-12-20",
+        "total_messages": 1043,
+        "absolutely": 1,
+        "right": 6,
+        "perfect": 9,
+        "excellent": 1
       }
     ]
   },
