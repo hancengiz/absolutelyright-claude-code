@@ -582,6 +582,14 @@
         "right": 1,
         "perfect": 0,
         "excellent": 0
+      },
+      {
+        "day": "2025-12-24",
+        "total_messages": 31,
+        "absolutely": 0,
+        "right": 0,
+        "perfect": 0,
+        "excellent": 0
       }
     ]
   },
@@ -784,6 +792,14 @@
         "right": 0,
         "perfect": 0,
         "excellent": 0
+      },
+      {
+        "day": "2025-12-24",
+        "total_messages": 3061,
+        "absolutely": 0,
+        "right": 2,
+        "perfect": 2,
+        "excellent": 1
       }
     ]
   },
