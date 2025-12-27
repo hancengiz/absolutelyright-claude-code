@@ -816,6 +816,14 @@
         "right": 4,
         "perfect": 4,
         "excellent": 2
+      },
+      {
+        "day": "2025-12-26",
+        "total_messages": 5107,
+        "absolutely": 0,
+        "right": 7,
+        "perfect": 1,
+        "excellent": 2
       }
     ]
   },
