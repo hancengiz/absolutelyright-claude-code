@@ -872,6 +872,14 @@
         "right": 0,
         "perfect": 0,
         "excellent": 0
+      },
+      {
+        "day": "2026-01-01",
+        "total_messages": 2183,
+        "absolutely": 0,
+        "right": 4,
+        "perfect": 3,
+        "excellent": 0
       }
     ]
   },
