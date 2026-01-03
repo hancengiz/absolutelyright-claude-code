@@ -880,6 +880,22 @@
         "right": 4,
         "perfect": 3,
         "excellent": 0
+      },
+      {
+        "day": "2026-01-02",
+        "total_messages": 3099,
+        "absolutely": 8,
+        "right": 7,
+        "perfect": 6,
+        "excellent": 4
+      },
+      {
+        "day": "2026-01-03",
+        "total_messages": 211,
+        "absolutely": 0,
+        "right": 0,
+        "perfect": 0,
+        "excellent": 2
       }
     ]
   },
