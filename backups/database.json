@@ -891,11 +891,19 @@
       },
       {
         "day": "2026-01-03",
-        "total_messages": 211,
+        "total_messages": 4467,
+        "absolutely": 0,
+        "right": 11,
+        "perfect": 3,
+        "excellent": 4
+      },
+      {
+        "day": "2026-01-04",
+        "total_messages": 17,
         "absolutely": 0,
         "right": 0,
         "perfect": 0,
-        "excellent": 2
+        "excellent": 0
       }
     ]
   },
