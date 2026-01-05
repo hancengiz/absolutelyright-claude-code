@@ -899,7 +899,15 @@
       },
       {
         "day": "2026-01-04",
-        "total_messages": 17,
+        "total_messages": 3981,
+        "absolutely": 3,
+        "right": 2,
+        "perfect": 32,
+        "excellent": 11
+      },
+      {
+        "day": "2026-01-05",
+        "total_messages": 73,
         "absolutely": 0,
         "right": 0,
         "perfect": 0,
