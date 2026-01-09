@@ -952,6 +952,22 @@
         "right": 4,
         "perfect": 0,
         "excellent": 6
+      },
+      {
+        "day": "2026-01-08",
+        "total_messages": 2198,
+        "absolutely": 2,
+        "right": 5,
+        "perfect": 0,
+        "excellent": 4
+      },
+      {
+        "day": "2026-01-09",
+        "total_messages": 34,
+        "absolutely": 0,
+        "right": 0,
+        "perfect": 0,
+        "excellent": 0
       }
     ]
   },
