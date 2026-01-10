@@ -963,7 +963,15 @@
       },
       {
         "day": "2026-01-09",
-        "total_messages": 34,
+        "total_messages": 4905,
+        "absolutely": 4,
+        "right": 15,
+        "perfect": 1,
+        "excellent": 5
+      },
+      {
+        "day": "2026-01-10",
+        "total_messages": 9,
         "absolutely": 0,
         "right": 0,
         "perfect": 0,
