@@ -971,11 +971,11 @@
       },
       {
         "day": "2026-01-10",
-        "total_messages": 9,
+        "total_messages": 5055,
         "absolutely": 0,
-        "right": 0,
-        "perfect": 0,
-        "excellent": 0
+        "right": 7,
+        "perfect": 5,
+        "excellent": 5
       }
     ]
   },
