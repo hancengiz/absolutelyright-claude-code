@@ -1056,6 +1056,22 @@
         "right": 22,
         "perfect": 1,
         "excellent": 4
+      },
+      {
+        "day": "2026-01-17",
+        "total_messages": 2162,
+        "absolutely": 1,
+        "right": 5,
+        "perfect": 0,
+        "excellent": 1
+      },
+      {
+        "day": "2026-01-18",
+        "total_messages": 105,
+        "absolutely": 0,
+        "right": 1,
+        "perfect": 0,
+        "excellent": 0
       }
     ]
   },
