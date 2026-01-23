@@ -678,6 +678,14 @@
         "right": 0,
         "perfect": 0,
         "excellent": 0
+      },
+      {
+        "day": "2026-01-22",
+        "total_messages": 4,
+        "absolutely": 0,
+        "right": 0,
+        "perfect": 0,
+        "excellent": 0
       }
     ]
   },
@@ -1104,6 +1112,14 @@
         "right": 7,
         "perfect": 7,
         "excellent": 14
+      },
+      {
+        "day": "2026-01-22",
+        "total_messages": 3169,
+        "absolutely": 2,
+        "right": 7,
+        "perfect": 5,
+        "excellent": 0
       }
     ]
   },
